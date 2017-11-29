@@ -1,0 +1,4 @@
+matplotlib
+pandas
+python-dotenv
+GraphLab-Create
